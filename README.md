@@ -287,9 +287,3 @@ The dataset and other locally generated artifacts may be excluded from Git using
 ## 👨‍💻 Author
 
 **Jubin K. Babu**
-
-MSc Data Analytics and Computational Science
-
-## 📄 License
-
-Add a license to this repository if you intend to distribute or reuse the project under specific terms.
